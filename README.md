@@ -9,8 +9,8 @@
 - [x] For each of the two algorithms, determine the optimal revenue rn with the
 corresponding optimal decompositions of the n and display the revenue and
 decompositions.
--[x] For each of the two algorithms, count a total number of recursive calls made in
+- [x] For each of the two algorithms, count a total number of recursive calls made in
 determining rn and display/compare them.
--[x] Repeat a-c at least 5 times and show the results.
+- [x] Repeat a-c at least 5 times and show the results.
 
 ![Screen Shot 2020-02-26 at 14 43 37](https://user-images.githubusercontent.com/22626710/75385957-6923f100-58a6-11ea-90aa-acc08ce6ba88.png)
