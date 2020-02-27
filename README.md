@@ -6,9 +6,8 @@
 
 ### 2. To test your algorithm implementations:
 - [x] A user will enter a number for n, the size of the rod.
-- [x] For each of the two algorithms, determine the optimal revenue rn with the
-corresponding optimal decompositions of the n and display the revenue and
-decompositions.
+- [x] For each of the two algorithms, determine the optimal revenue rn
+- [ ] Corresponding Optimal Decompositions of the n and display the revenue and decompositions.
 - [x] For each of the two algorithms, count a total number of recursive calls made in
 determining rn and display/compare them.
 - [x] Repeat a-c at least 5 times and show the results.
